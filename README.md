@@ -1,10 +1,6 @@
 ### Olá! eu sou a Alinne Souza 👋
 
-
-
-Here are some ideas to get you started:
-
-- 🌱 I’m currently learning linguagens para front-end e Java.
+Atualmente estou aprendendo linguagens para front-end e Java. 🤓
 <div>
   <a href="https://github.com/halisouzax">
   <img height="150em"   align="center" src="https://github-readme-stats.vercel.app/api?username=halisouzax&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
